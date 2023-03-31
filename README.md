@@ -1,6 +1,6 @@
 # RSVP-repetitions-test
 
-# steps to create the figures:
+Steps to create the figures:
 - Matlab (tested in R2022a)
 - CoSMoMVPA (https://www.cosmomvpa.org/)
 - Run 'make_figures.m' (set paths at top of the function)
